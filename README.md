@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem vindo a minha página! 👋
 
 ### Olá! eu sou Bergson Guimarães dos Santos ✋. 
 
