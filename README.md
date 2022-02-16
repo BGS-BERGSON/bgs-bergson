@@ -1,4 +1,4 @@
-### Olá! eu sou Bergson Guimarães dos Santos ✋. 
+### Olá! Eu sou Bergson Guimarães dos Santos e também faço parte da área Tecnológica ✋. 
 
 ### 👋 Seja bem vindo a minha página! 👋
 
