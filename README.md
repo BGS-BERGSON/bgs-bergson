@@ -1,6 +1,8 @@
-### Seja bem vindo a minha página! 👋
-
 ### Olá! eu sou Bergson Guimarães dos Santos ✋. 
+
+### 👋 Seja bem vindo a minha página! 👋
+
+
 
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://bgs-bergson.github.io/projeto_android) 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bgs-bergson.github.io/projeto_android)
